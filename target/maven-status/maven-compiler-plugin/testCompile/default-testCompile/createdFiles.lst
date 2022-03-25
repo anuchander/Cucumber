@@ -1,0 +1,8 @@
+com/tekarch/pages/LoginPage.class
+com/tekarch/runner/Runner.class
+com/tekarch/pageFactory/PageFactory.class
+com/tekarch/pages/LeadsPage.class
+com/tekarch/steps/Steps.class
+com/tekarch/pages/HomePage.class
+com/tekarch/pages/AccountsPage.class
+com/tekarch/pages/ContactsPage.class
